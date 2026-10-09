@@ -1,1 +1,1 @@
-"name": "whatsapp-webhook", "version": "1.0.0", "main": "main.js", "scripts": "start": "node create.js"`
+"name": "whatsapp-webhook", "version": "1.0.0", "main": "js/create.js", "scripts": "start": "node create.js"`
